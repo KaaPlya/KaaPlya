@@ -12,7 +12,7 @@
 
 ###Follow me
 
-[![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=f06292)](https://t.me/MySitesAndPortfolio)
+[![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=f06292)](https://t.me/khudayberdiyev_m)
 [![Instagram](https://img.shields.io/badge/instagram-090909?style=for-the-badge&logo=instagram&logoColor=f06292)](https://www.instagram.com/makhmudjanov__24/)
 
 
