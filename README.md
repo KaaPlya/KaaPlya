@@ -4,19 +4,19 @@
 ###Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=ffa500)
-![React JS](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react&logoColor=47C5FB)
-![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux&logoColor=47C5FB)
-![figma](https://img.shields.io/badge/figma-090909?style=for-the-badge&logo=figma&logoColor=f06292)
+![Django](https://img.shields.io/badge/django-090909?style=for-the-badge&logo=django&logoColor=47C5FB)
+![SQL](https://img.shields.io/badge/sql-090909?style=for-the-badge&logo=sql&logoColor=47C5FB)
+![Flask](https://img.shields.io/badge/flask-090909?style=for-the-badge&logo=flask&logoColor=f06292)
 
 
 
 ###Follow me
 
 [![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=f06292)](https://t.me/khudayberdiyev_m)
-[![Instagram](https://img.shields.io/badge/instagram-090909?style=for-the-badge&logo=instagram&logoColor=f06292)](https://www.instagram.com/makhmudjanov__24/)
+[![Instagram](https://img.shields.io/badge/instagram-090909?style=for-the-badge&logo=instagram&logoColor=f06292)](https://www.instagram.com/khudayberdiyev_coding/)
 
 
 [![KaaPlya's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaaPlya&show_icons=true&theme=radical)](https://github.com/KaaPlya/KaaPlya)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaaPlya&langs_count=8)](https://github.com/KaaPlya/github-readme-stat)
