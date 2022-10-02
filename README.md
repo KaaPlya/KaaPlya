@@ -3,11 +3,11 @@
 
 ###Languages and Tools
 
-![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=4B8BBE=306998=FFE873=FFD43B=646464)
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=4B8BBE-306998-FFE873-FFD43B-646464)
 ![Django](https://img.shields.io/badge/django-090909?style=for-the-badge&logo=django&logoColor=47C5FB)
 ![SQL](https://img.shields.io/badge/sql-090909?style=for-the-badge&logo=sql&logoColor=47C5FB)
 ![Flask](https://img.shields.io/badge/flask-090909?style=for-the-badge&logo=flask&logoColor=f06292)
-![PostgeSQL](https://img.shields.io/badge/postgresql-090909?style=for-the-badge&logo=&logoColor=f06292)
+![PostgeSQL](https://img.shields.io/badge/postgresql-090909?style=for-the-badge&logo=&logoColor=4B8BBE)
 
 
 
