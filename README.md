@@ -8,6 +8,8 @@
 ![SQL](https://img.shields.io/badge/sql-090909?style=for-the-badge&logo=sql&logoColor=47C5FB)
 ![Flask](https://img.shields.io/badge/flask-090909?style=for-the-badge&logo=flask&logoColor=f06292)
 ![PostgeSQL](https://img.shields.io/badge/postgresql-090909?style=for-the-badge&logo=&logoColor=4B8BBE)
+![MySQL](https://img.shields.io/badge/mysql-090909?style=for-the-badge&logo=&logoColor=4B8BBE)
+![Linux](https://img.shields.io/badge/linux-090909?style=for-the-badge&logo=&logoColor=4B8BBE)
 
 
 
