@@ -16,7 +16,7 @@
 ###Follow me
 
 [![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=f06292)](https://t.me/khudayberdiyev_m)
-[![Instagram](https://img.shields.io/badge/instagram-090909?style=for-the-badge&logo=instagram&logoColor=f06292)](https://www.instagram.com/khudayberdiyev_coding/)
+[![Instagram](https://img.shields.io/badge/instagram-090909?style=for-the-badge&logo=instagram&logoColor=f06292)](https://www.instagram.com/muradcoder/)
 
 
 [![KaaPlya's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaaPlya&show_icons=true&theme=radical)](https://github.com/KaaPlya/KaaPlya)
